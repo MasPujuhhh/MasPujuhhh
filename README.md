@@ -3,7 +3,7 @@
 
 <img align='right' src='https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif' width='200"'>
 
-I am Puguh Aji Prabowo as (MasPujuhhh). I am from Semarang, Indonesia and a i am student at AKI University from 2020 to Now. I love leraning PHP and Javacript.
+I am Puguh Aji Prabowo as (MasPujuhhh). I am from Semarang, Indonesia and I am student at AKI University from 2020 to Now. I love leraning PHP and Javacript.
 
 <!-- [![Telegram Badge](https://img.shields.io/badge/-@Abdurahman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://telegram.me/skyvuejsx) [![Linkedin Badge](https://img.shields.io/badge/-Abdurahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurahmanargoebie/)](https://www.linkedin.com/in/abdurahmanargoebie/) -->
 [![Gmail Badge](https://img.shields.io/badge/-puguhaji02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puguhaji02@gmail.com)](mailto:puguhaji02@gmail.com)
