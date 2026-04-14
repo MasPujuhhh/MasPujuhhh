@@ -25,7 +25,7 @@ Right now, I’m actively expanding my scope toward software engineering — not
 - Handled financial records and reporting
 - Focused on accuracy and data reliability
 
-### 🧾 POS & Multi-Outlet System (ongoing)
+### 🧾 POS & Multi-Outlet System
 - Designing multi-outlet structure
 - Building flexible system configuration
 - Managing inventory and transaction logic
@@ -58,12 +58,6 @@ I’m currently working toward becoming a Software Engineer by improving:
 - 🏗️ Scalable architecture  
 - 🧹 Code quality & maintainability  
 - ⚖️ Understanding trade-offs in real-world systems  
-
----
-
-## 🔗 GitHub
-
-https://github.com/USERNAME_KAMU
 
 ---
 
