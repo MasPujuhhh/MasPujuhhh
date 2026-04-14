@@ -1,29 +1,41 @@
+# 👋 Hey, I'm Puguh Aji
 
-<h2> Hello Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+> Backend Engineer who enjoys turning complex problems into scalable systems.
 
-<img align='right' src='https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif' width='200"'>
+---
 
-I am Puguh Aji Prabowo as (MasPujuhhh). I am from Semarang, Indonesia and I am student at AKI University from 2020 to Now. I love leraning PHP and Javacript.
+## 🧠 About Me
 
-<!-- [![Telegram Badge](https://img.shields.io/badge/-@Abdurahman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://telegram.me/skyvuejsx) [![Linkedin Badge](https://img.shields.io/badge/-Abdurahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurahmanargoebie/)](https://www.linkedin.com/in/abdurahmanargoebie/) -->
-[![Gmail Badge](https://img.shields.io/badge/-puguhaji02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puguhaji02@gmail.com)](mailto:puguhaji02@gmail.com)
+- 💻 Focused on **Backend Development**
+- ⚙️ Working with **Node.js, PostgreSQL, Sequelize / Prisma**
+- 🧩 Love building **dynamic & customizable systems** (like user-defined tables & flexible UI configs)
+- 📦 Currently working on a **POS / management system architecture**
+- 🔍 Always exploring better ways to structure APIs & database design
 
-## Tech 🚀 
+---
 
-Still Learning
+## 🛠️ Tech Stack
 
-- Backend development using **Node Js (Express), PHP (Laravel)**
-- Frontend development using **Vue, React**
-- DBMS using **MySQL, PostgreSQL**
-- Vesion Control using **Git**
+### Backend
+- Node.js
+- Express / NestJS
+- Sequelize / Prisma
 
-## What i learn i write here 🎈
+### Database
+- PostgreSQL
+- MySQL
 
-- [Express](node/express.md)
-- [PHP](php/php.md)
-- [Laravel](laravel/laravel.md)
-- [React](react/react.md)
+### Tools & Others
+- Git & GitHub
+- Docker (learning / improving)
+- Linux (Ubuntu environment)
 
-## Still Newbie 🤗
-![MasPujuhhh's github stats](https://github-readme-stats.vercel.app/api?username=MasPujuhhh&hide=["issues"]&show_icons=true)
+---
 
+## 📊 What I'm Working On
+
+```txt
+✔ Dynamic Database Schema (user-defined tables)
+✔ Customizable Navbar System
+✔ Multi-outlet POS System
+✔ Inventory & Transaction Management
