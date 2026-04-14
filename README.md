@@ -1,22 +1,30 @@
-# 👋 Hey, I'm Puguh Aji
+# 👋 Hi, I'm Puguh Aji
 
-> Backend Engineer who enjoys turning complex problems into scalable systems.
+> Backend Developer evolving into a Software Engineer who builds scalable and maintainable systems.
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I
 
-- 💻 Focused on **Backend Development**
-- ⚙️ Working with **Node.js, PostgreSQL, Sequelize / Prisma**
-- 🧩 Love building **dynamic & customizable systems** (like user-defined tables & flexible UI configs)
-- 📦 Currently working on a **POS / management system architecture**
-- 🔍 Always exploring better ways to structure APIs & database design
+I'm a backend-focused developer with a strong interest in system design, database architecture, and building flexible applications.
+
+Currently, I'm growing towards becoming a **Software Engineer**, expanding beyond backend into system thinking, scalability, and engineering best practices.
+
+---
+
+## 🎯 Current Focus
+
+- 🔧 Building robust backend systems using **Node.js**
+- 🗄️ Designing efficient and scalable **database architectures**
+- 🧩 Developing **dynamic systems** (user-defined schema, flexible UI config)
+- 📦 Working on **POS & multi-outlet management systems**
+- 📈 Improving code quality, performance, and maintainability
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Core
 - Node.js
 - Express / NestJS
 - Sequelize / Prisma
@@ -25,17 +33,15 @@
 - PostgreSQL
 - MySQL
 
-### Tools & Others
+### Environment & Tools
 - Git & GitHub
-- Docker (learning / improving)
-- Linux (Ubuntu environment)
+- Linux (Ubuntu)
+- Docker (learning & improving)
 
 ---
 
-## 📊 What I'm Working On
+## 🧱 Engineering Mindset
 
 ```txt
-✔ Dynamic Database Schema (user-defined tables)
-✔ Customizable Navbar System
-✔ Multi-outlet POS System
-✔ Inventory & Transaction Management
+I don't just write code to make things work.
+I design systems so they can grow, adapt, and last.
