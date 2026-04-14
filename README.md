@@ -1,47 +1,72 @@
-# 👋 Hi, I'm Puguh Aji
+# 👋 Puguh Aji
 
-> Backend Developer evolving into a Software Engineer who builds scalable and maintainable systems.
-
----
-
-## 🧠 Who Am I
-
-I'm a backend-focused developer with a strong interest in system design, database architecture, and building flexible applications.
-
-Currently, I'm growing towards becoming a **Software Engineer**, expanding beyond backend into system thinking, scalability, and engineering best practices.
+Backend Developer → Software Engineer (in progress)
 
 ---
 
-## 🎯 Current Focus
+## 🧠 About
 
-- 🔧 Building robust backend systems using **Node.js**
-- 🗄️ Designing efficient and scalable **database architectures**
-- 🧩 Developing **dynamic systems** (user-defined schema, flexible UI config)
-- 📦 Working on **POS & multi-outlet management systems**
-- 📈 Improving code quality, performance, and maintainability
+I'm a backend developer who focuses on building systems that are reliable, scalable, and easy to maintain.
 
----
-
-## 🛠️ Tech Stack
-
-### Core
-- Node.js
-- Express / NestJS
-- Sequelize / Prisma
-
-### Database
-- PostgreSQL
-- MySQL
-
-### Environment & Tools
-- Git & GitHub
-- Linux (Ubuntu)
-- Docker (learning & improving)
+I’ve worked on real-world business applications, especially in inventory and financial systems.  
+Right now, I’m actively expanding my scope toward software engineering — not just building features, but understanding how systems are designed, structured, and scaled.
 
 ---
 
-## 🧱 Engineering Mindset
+## 🏗️ Selected Work
 
-```txt
-I don't just write code to make things work.
-I design systems so they can grow, adapt, and last.
+### 🏪 Warehouse Management System
+- Built inventory tracking and stock movement flow
+- Designed support for multiple warehouse locations
+- Ensured data consistency through structured transactions
+
+### 💰 Cooperative Management System
+- Developed member, savings, and loan features
+- Handled financial records and reporting
+- Focused on accuracy and data reliability
+
+### 🧾 POS & Multi-Outlet System (ongoing)
+- Designing multi-outlet structure
+- Building flexible system configuration
+- Managing inventory and transaction logic
+
+---
+
+## ⚙️ What I Work With
+
+- 🟢 Node.js
+- 🐘 PostgreSQL / MySQL
+- 🔷 Sequelize / Prisma
+- 🌐 REST API design
+
+---
+
+## 🧩 How I Approach Development
+
+- Keep things simple, but scalable  
+- Think about structure before implementation  
+- Treat database as part of the system, not just storage  
+- Write code that’s easy to revisit  
+
+---
+
+## 🚧 Current Direction
+
+I’m currently working toward becoming a Software Engineer by improving:
+
+- 📐 System design thinking  
+- 🏗️ Scalable architecture  
+- 🧹 Code quality & maintainability  
+- ⚖️ Understanding trade-offs in real-world systems  
+
+---
+
+## 🔗 GitHub
+
+https://github.com/USERNAME_KAMU
+
+---
+
+## 📝 Note
+
+Still learning, but already building systems that are used and continue to evolve.
